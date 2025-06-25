@@ -61,7 +61,8 @@ for (int i=0; s[i]!='\0'; i++);
 # Links
 
 [Click for Google](https://www.google.com)
-
+[prima aqui para ir ao IPS](https://www.ips.pt)
+<https://www.ips.pt>
 ou sem a descrição
 
 <https://www.google.com>
@@ -70,13 +71,13 @@ ou sem a descrição
 
 ![Google Logo](https://api.freelogodesign.org/assets/blog/img/201811071357423762013.png)
 
+![Logo](https://api.freelogodesign.org/assets/blog/img/201811071357423762013.png)
+
 ### Block Quotes
 
 > This is a quote
-
 >> This is also another quote
-
-> Fim.
+>>> Fim.
 
 ## Linhas horizontais
 
@@ -89,22 +90,17 @@ ___
 # Listas
 
 * Um
-
-* Dois
-
-* Três
-
-+ Quatro
-
-+ Cinco
-
-+ Seis
++ Dois
+- Três
+    * Quatro
+	+ Cinco
+	+ Seis
 
 + Último
 
 ---
 
-1. Item 1
+1. Item 1.0 kjsdhfjsdhf
 
 2. Item 2
 
@@ -126,9 +122,9 @@ ___
 
 # Tabelas
 
-| Month | Type | Savings |
-|  --------  |  --- | -----  |
-| January | |$250 |
+| Month      | Type | Savings |
+|  --- |  :---: | -----:   |
+| January |    |$250       |
 | February | Demo| $80 |
 | March | Demonstração Virtual | $420 |
 
