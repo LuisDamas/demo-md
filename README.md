@@ -1,3 +1,4 @@
+
 # Normal text
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus  est eget convallis egestas. Nulla porttitor nulla vel arcu malesuada lacinia.
@@ -25,36 +26,37 @@ Texto ~~razurado~~
 
 Texto ==realçado==
 
-O mesmo resultado usando html tags MARC: <mark>highlight</mark>  
+O mesmo resultado usando html tags MARC: <mark>highlight</mark> 
 
-Texto em superscript e em subscript
+Texto em ^superscript^ e em ~subscript~
 
-X2 + Y2 = Z
+X^2^ + Y^2^ = Z
 
-H2O é água
+H~2~O é água
 
 :smile: :heart_eyes: :kissing_heart:
+😄
 
 # Código
 
-**Questão:** Como increcrementar uma variável em Java?
+**Questão:** Como increcrementar uma variável em **Java**?
 
-**Resposta:** Usando o operador de autoincremento var++;
+**Resposta:** Usando o operador de autoincremento `var++`;
 
 Escreva um exemplo de código em Java:
 
-
+```
 for (int i=0; s[i]!='\0'; i++);
   if (s[i]=='A')
      s[i]='\0';
+```
 
 ### Mostrando a sintaxe da linguagem
-
-
+```java
 for (int i=0; s[i]!='\0'; i++);
   if (s[i]=='A')
     s[i]='\0';
-
+```
 
 # Links
 
