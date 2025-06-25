@@ -25,7 +25,7 @@ Texto ~~razurado~~
 
 Texto ==realçado==
 
-O mesmo resultado usando html tags MARC: highlight 
+O mesmo resultado usando html tags MARC: <marc>highlight</marc>  
 
 Texto em superscript e em subscript
 
