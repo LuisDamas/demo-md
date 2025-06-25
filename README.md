@@ -28,7 +28,7 @@ Texto ==realçado==
 
 O mesmo resultado usando html tags MARC: <mark>highlight</mark> 
 
-Texto em ^superscript^ e em ~subscript~
+Texto em ^superscript^ e em <sub>subscript</sub>
 
 X^2^ + Y^2^ = Z
 
